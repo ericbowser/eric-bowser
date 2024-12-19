@@ -5,14 +5,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🚀 About Me
 - 🌱 I’m currently learning advanced algorithms and machine learning.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, Python, and JavaScript.
-- 📫 How to reach me: [eric@example.com](mailto:eric@example.com)
-- ⚡ Fun fact: I enjoy hiking and photography in my free time.
+- 💬 Ask me about web development, Node, and JavaScript.
+- 📫 How to reach me: [E.R.B](mailto:erbows@collar-culture.com)
+- ⚡ Fun fact: I enjoy hiking, climbing and snow sports
 
 ## 🛠️ Languages and Tools
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, Kubernetes, AWS, VS Code
+- **Languages:** C#, JavaScript, T-SQL
+- **Frameworks:** React, Node.js, TailwindCSS, Bootstrap
+- **Tools:** Git, Docker, Rider, Visual Studio
 
 ## 📈 GitHub Stats
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericbowser&show_icons=true&theme=radical)
